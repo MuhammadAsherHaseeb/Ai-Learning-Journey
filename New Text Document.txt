@@ -1,0 +1,4 @@
+Run
+
+  git config --global user.email "asherhaseebkhan@gmail.com"
+  git config --global user.name "MuhammadAsherHaseeb"
